@@ -9,10 +9,10 @@ Evaluate A/B testing results and decide which marketing strategy works the best.
 
 
 ## Columns
-MarketID: unique identifier for market
-MarketSize: size of market area by sales
-LocationID: unique identifier for store location
-AgeOfStore: age of store in years
-Promotion: one of three promotions that were tested
-week: one of four weeks when the promotions were run
-SalesInThousands: sales amount for a specific LocationID, Promotion, and week
+1. MarketID: unique identifier for market
+2. MarketSize: size of market area by sales
+3. LocationID: unique identifier for store location
+4. AgeOfStore: age of store in years
+5. Promotion: one of three promotions that were tested
+6. week: one of four weeks when the promotions were run
+7. SalesInThousands: sales amount for a specific LocationID, Promotion, and week
